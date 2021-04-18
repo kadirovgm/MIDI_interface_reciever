@@ -1,8 +1,4 @@
-/** 
- ** ECE353 LAB B: MIDI Decoder
- ** Fall 2011
- ** Authors: Chris Finn, Paulo Leal, & Shuwen Cao
- **/
+
 module Midi_Decoder (Midi_in, Clock, Reset_n, LED_output);
 //////////////////
 // Inputs
